@@ -21,7 +21,7 @@ people:
       url: https://twitter.com/ShaneCurcuru
     - title: github
       url: http://github.com/ShaneCurcuru
-    - title: blog
+    - title: book
       url: http://CommunityOverCode.com/
 
 - name: Tokaji
@@ -50,6 +50,8 @@ social:
     url: https://stackexchange.com/users/7027028/shane-curcuru
   - title: github
     url: http://github.com/ShaneCurcuru
+  - title: heart-o
+    url: http://whyilovetheasf.com/
 
 # Postal address (add as many lines as necessary)
 address:
