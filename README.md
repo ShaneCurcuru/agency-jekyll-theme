@@ -1,30 +1,27 @@
-Agency Jekyll theme
+Punderthings Consulting Website
 ====================
 
-Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
+Contact Shane at card@shanecurcuru.org for rates and availability.
 
-# How to use
+### CREDITS / NOTICE
 
-###Portfolio 
+Original content &copy; 2016 Shane Curcuru.  Apache License 2.0.
 
-Portfolio projects are in '/_posts'
+Website structure, layout, graphics:
 
-Images are in '/img/portfolio'
+- Core design by [Jekyll](https://jekyllrb.com/)
+- Theme forked from [y7kim/agency-jekyll-theme](https://y7kim.github.io/agency-jekyll-theme)
+- Icons by [FontAwesome](http://fontawesome.io/)
+- Images from [Unsplash](https://unsplash.com/)
 
-###About
+### TOOLS
 
-Images are in '/img/about/'
+Hosted by the convenient [GitHub Pages](https://pages.github.com/).
 
-###Team
+Written with the [Atom.io](https://atom.io/) editor on a Mac.
 
-Team members and info are in '_config.yml'
+Powered by caffeine from [Peet's Coffee and Tea](http://www.peets.com/).
 
-Images are in '/img/team/'
+### TRADEMARKS
 
-
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
-For more details, read [documentation](http://jekyllrb.com/)
+Apache®, the feather logo, and the names of all Apache projects referenced are either [registered trademarks or trademarks](https://www.apache.org/foundation/marks/) of the [Apache Software Foundation](http://www.apache.org/) in the United States and/or other countries.
