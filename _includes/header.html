@@ -30,9 +30,11 @@
                     <li>
                         <a class="page-scroll" href="#team">Team</a>
                     </li>
+<!--
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
                     </li>
+-->
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -44,9 +46,9 @@
     <header>
         <div class="container">
             <div class="intro-text">
-                <div class="intro-lead-in">Welcome To Our Studio!</div>
-                <div class="intro-heading">It's Nice To Meet You</div>
-                <a href="#services" class="page-scroll btn btn-xl">Tell Me More</a>
+                <div class="intro-lead-in">{{ site.intro-lead-in }}</div>
+                <div class="intro-heading">{{ site.intro-lead-in }}</div>
+                <a href="#services" class="page-scroll btn btn-xl">Learn More</a>
             </div>
         </div>
     </header>
@@ -55,4 +57,3 @@
           {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
         {% endfor %}
  -->
-

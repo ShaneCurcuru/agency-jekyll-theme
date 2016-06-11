@@ -1,0 +1,15 @@
+---
+title: Branding
+subtitle: Trademark Policy
+layout: default
+modal-id: 2
+date: 2016-01-02
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Open Source Branding
+category: Open Source Branding
+description: As VP, Brand Management for the ASF, I've created, refined, and implemented branding and trademark policy for 200+ Apache projects.
+
+---

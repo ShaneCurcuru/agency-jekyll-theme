@@ -1,28 +1,32 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://shanecurcuru.github.io
+baseurl: /website1/
 
-# Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-
+# Site & head/header settings
+title: Punderthings Consulting
+intro-lead-in: Welcome To Punderthings!
+intro-heading: A better way to engage with open source.
+team-heading: Punderthings Leadership
+team-subheading: Trusted and proven FOSS expertise.
+team-trailer: I've been working with Apache projects for almost 20 years; now I'd like to help <b>your</b> organization with open source!
+email: blog@shanecurcuru.org
+description: &description "A better way of engaging in open source - consulting for businesses and communities."
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Shane Curcuru
   pic: 1
-  position: Lead Designer
+  position: Founder
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://twitter.com/ShaneCurcuru
+    - title: github
+      url: http://github.com/ShaneCurcuru
+    - title: blog
+      url: http://CommunityOverCode.com/
 
-- name: Larry Parker
+- name: Tokaji
   pic: 2
-  position: Lead Marketer
+  position: Troublemaker
   social:
     - title: twitter
       url: #
@@ -31,34 +35,26 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Pálinka
   pic: 3
-  position: Lead Developer
+  position: Peacemaker
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
+    url: https://twitter.com/ShaneCurcuru
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: https://stackexchange.com/users/7027028/shane-curcuru
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/ShaneCurcuru
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 10 Court St. Box 12345
+  - line: Arlington, MA 02474
 
 # Build settings
 markdown: kramdown

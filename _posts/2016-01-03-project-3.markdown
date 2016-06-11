@@ -1,0 +1,15 @@
+---
+title: Consulting
+subtitle: Open Source Consulting
+layout: default
+modal-id: 3
+date: 2016-01-03
+img: startup-framework.png
+thumbnail: startup-framework-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: FOSS Foundations
+category: Engagement Assistant
+description: As an independent consultant, I've helped various companies as well as many different open source projects and groups find more efficient and respectful ways to work together, profitably.
+
+---
