@@ -1,5 +1,5 @@
 url: https://shanecurcuru.github.io
-baseurl: /punderthings/
+baseurl: /punderthings
 
 # Site & head/header settings
 title: Punderthings Consulting
@@ -55,8 +55,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 10 Court St. Box 12345
-  - line: Arlington, MA 02474
+  - line: 1347 Massachusetts Ave, Box 750040
+  - line: Arlington, MA 02475
 
 # Build settings
 markdown: kramdown
