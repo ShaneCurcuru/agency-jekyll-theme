@@ -25,19 +25,17 @@ people:
   position: Troublemaker
   social:
     - title: instagram
-      url: http://shaneslides.com/
+      url: https://www.instagram.com/shanecurcuru/
 
 - name: Pálinka
   pic: 3
   position: Peacemaker
   social:
     - title: instagram
-      url: http://shaneslides.com/
+      url: https://www.instagram.com/shanecurcuru/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/ShaneCurcuru
   - title: github
     url: http://github.com/ShaneCurcuru
   - title: linkedin
