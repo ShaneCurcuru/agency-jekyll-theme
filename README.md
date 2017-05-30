@@ -5,14 +5,14 @@ Contact Shane at card@shanecurcuru.org for rates and availability.
 
 ### CREDITS / NOTICE
 
-Original content &copy; 2016 Shane Curcuru.  Apache License 2.0.
+Original content &copy; 2016-2017 Shane Curcuru.  Apache License 2.0.
 
 Website structure, layout, graphics:
 
-- Core design by [Jekyll](https://jekyllrb.com/)
-- Theme forked from [y7kim/agency-jekyll-theme](https://y7kim.github.io/agency-jekyll-theme)
-- Icons by [FontAwesome](http://fontawesome.io/)
-- Images from [Unsplash](https://unsplash.com/)
+- Core design by [Jekyll](https://jekyllrb.com/) _(MIT)_
+- Theme forked from [y7kim/agency-jekyll-theme](https://y7kim.github.io/agency-jekyll-theme) _(Apache)_
+- Icons by [FontAwesome](http://fontawesome.io/) _(MIT / OFL)_
+- Images from [Unsplash](https://unsplash.com/) _(CC0)_
 
 ### TOOLS
 
