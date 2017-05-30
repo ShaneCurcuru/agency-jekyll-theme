@@ -1,7 +1,7 @@
 Punderthings Consulting Website
 ====================
 
-Contact Shane at card@shanecurcuru.org for rates and availability.
+[Punderthings](http://punderthings.com/): Contact Shane at card@shanecurcuru.org for rates and availability.
 
 ### CREDITS / NOTICE
 

@@ -4,12 +4,12 @@ baseurl:
 # Site & head/header settings
 title: Punderthings Consulting
 intro-lead-in: Welcome To Punderthings!
-intro-heading: A better way to engage with open source.
+intro-heading: A better way to engage with open source
 team-heading: Punderthings Leadership
 team-subheading: Trusted and proven FOSS expertise.
 team-trailer: I've been working with Apache projects for almost 20 years; now I'd like to help <b>your</b> organization with open source!
 email: blog@shanecurcuru.org
-description: &description "A better way of engaging in open source - consulting for businesses and communities."
+description: &description "A better way to engage in open source - consulting for businesses and communities."
 
 # Team names, titles and social links
 people:
@@ -19,37 +19,35 @@ people:
   social:
     - title: twitter
       url: https://twitter.com/ShaneCurcuru
-    - title: github
-      url: http://github.com/ShaneCurcuru
-    - title: book
-      url: http://CommunityOverCode.com/
 
 - name: Tokaji
   pic: 2
   position: Troublemaker
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+    - title: instagram
+      url: http://shaneslides.com/
 
 - name: Pálinka
   pic: 3
   position: Peacemaker
   social:
-    - title: twitter
-      url: #
+    - title: instagram
+      url: http://shaneslides.com/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
     url: https://twitter.com/ShaneCurcuru
-  - title: stack-overflow
-    url: https://stackexchange.com/users/7027028/shane-curcuru
   - title: github
     url: http://github.com/ShaneCurcuru
+  - title: linkedin
+    url: https://www.linkedin.com/in/ShaneCurcuru
+  - title: stack-overflow
+    url: https://stackexchange.com/users/7027028/shane-curcuru
+  - title: book
+    url: http://CommunityOverCode.com/
+  - title: cubes
+    url: http://ShaneSlides.com/
   - title: heart-o
     url: http://whyilovetheasf.com/
 
