@@ -8,7 +8,8 @@ img: roundicons.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
 project-date: April 2014
-client: Open Source Branding
+client: Apache Trademark policy
+clienturl: https://www.apache.org/foundation/marks/resources
 category: Open Source Branding
 description: As VP, Brand Management for the ASF, I've created, refined, and implemented branding and trademark policy for 200+ Apache projects.
 

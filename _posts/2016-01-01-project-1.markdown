@@ -1,15 +1,16 @@
 ---
-title: Apache Member
-subtitle: Open Source Processes
+title: FOSS Speaker
+subtitle: Open Source Conferences
 layout: default
 modal-id: 1
 date: 2016-01-01
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: FOSS groups
-category: Community Mentoring
-description: As an Apache Member since 2002, I've assisted project communities and the ASF alike in working together better, both in the communities and with the many vendors who contribute code.
+project-date: April 2012
+client: "Shane's Slides"
+clienturl: http://shaneslides.com/
+category: FOSS Branding And Community Speaker
+description: I've been speaking at FOSS conferences like OSCON, ApacheCon, All Things Open, Community Leadership Summit, and more.
 
 ---
