@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: FOSS Foundations
 category: Engagement Assistant
-description: As an independent consultant, I've helped various companies as well as many different open source projects and groups find more efficient and respectful ways to work together, profitably.
+description: As an independent consultant, I've helped both companies and open source communities find more efficient and respectful ways to work together, benefiting everyone in the equation.
 
 ---

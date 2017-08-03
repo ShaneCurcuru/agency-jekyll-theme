@@ -1,14 +1,15 @@
-url: https://punderthings.com
+url: http://punderthings.com
 baseurl: 
 
 # Site & head/header settings
 title: Punderthings Consulting
-intro-lead-in: Welcome To Punderthings!
+intro-lead-in: Welcome To Punderthings℠!
 intro-heading: A better way to engage with open source
 team-heading: Punderthings Leadership
 team-subheading: Trusted and proven FOSS expertise.
-team-trailer: I've been working with Apache projects for almost 20 years; now I'd like to help <b>your</b> organization with open source!
-email: blog@shanecurcuru.org
+team-trailer: I've been working with Apache projects for almost 20 years; now I'd like to help <b>your</b> organization with open source!  shane@punderthings.com
+email: shane@punderthings.com
+author: Shane Curcuru
 description: &description "A better way to engage in open source - consulting for businesses and communities."
 
 # Team names, titles and social links

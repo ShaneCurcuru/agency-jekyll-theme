@@ -11,6 +11,6 @@ project-date: April 2012
 client: "Shane's Slides"
 clienturl: http://shaneslides.com/
 category: FOSS Branding And Community Speaker
-description: I've been speaking at FOSS conferences like OSCON, ApacheCon, All Things Open, Community Leadership Summit, and more.
+description: As a regular speaker at OSCON, ApacheCon, All Things Open, Community Leadership Summit, and Open Source Summit, I can bring effective messages about open source use, participation, and leadership to your team.
 
 ---
