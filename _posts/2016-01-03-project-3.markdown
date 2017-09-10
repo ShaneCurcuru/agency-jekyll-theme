@@ -8,8 +8,9 @@ img: startup-framework.png
 thumbnail: startup-framework-thumbnail.png
 alt: image-alt
 project-date: April 2014
-client: FOSS Foundations
+client: Choose A FOSS Foundation
+clienturl: http://chooseafoundation.com/
 category: Engagement Assistant
-description: As an independent consultant, I've helped both companies and open source communities find more efficient and respectful ways to work together, benefiting everyone in the equation.
+description: As an independent consultant, I'm helping companies and open source communities find more efficient and respectful ways to work together, benefiting all sides in the equation.
 
 ---
