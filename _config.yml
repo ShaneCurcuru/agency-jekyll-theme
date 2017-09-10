@@ -7,9 +7,10 @@ intro-lead-in: Welcome To Punderthings℠!
 intro-heading: A better way to engage with open source
 team-heading: Punderthings Leadership
 team-subheading: Trusted and proven FOSS expertise.
-team-trailer: I've been working with Apache projects for almost 20 years; now I'd like to help <b>your</b> organization with open source!  shane@punderthings.com
+team-trailer: I've been working with Apache projects for almost 20 years; now I'd like to help <b>your</b> organization with open source!  Email me: <a href="mailto:shane@punderthings.com">shane@punderthings.com</a>
 email: shane@punderthings.com
 author: Shane Curcuru
+authorurl: http://shanecurcuru.org/
 description: &description "A better way to engage in open source - consulting for businesses and communities."
 
 # Team names, titles and social links
