@@ -1,12 +1,11 @@
 Punderthings℠ Consulting Website
 ====================
 
-[Punderthings](http://punderthings.com/): Contact Shane at shane@punderthings.com for rates and availability.
+[Punderthings℠ Consulting](http://punderthings.com/): Contact Shane at shane@punderthings.com for rates and availability.
 
 ### CREDITS / NOTICE
 
-Original content &copy; 2016-2017 Shane Curcuru.  Apache License 2.0.
-
+Original content &copy; 2017-2018 Shane Curcuru, licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.html).
 Website structure, layout, graphics:
 
 - Core design by [Jekyll](https://jekyllrb.com/) _(MIT)_
@@ -20,7 +19,7 @@ Hosted by the convenient [GitHub Pages](https://pages.github.com/).
 
 Written with the [Atom.io](https://atom.io/) editor on a Mac.
 
-Powered by caffeine from [Peet's Coffee and Tea](http://www.peets.com/).
+Powered by caffeine from [Peet's Coffee and Tea](http://www.whyilovepeets.com/).
 
 ### TRADEMARKS
 
